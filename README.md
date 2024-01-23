@@ -3,7 +3,7 @@
 <h1 align="center">Hi 😁, I'm Ipsita Pal</h1>
 <h3 align="center">Data artist, painting insights with code and pixels.✨</h3>
 
-- 🏫 I’m currently pursuing Master's in Data Science [LJMU] & GenAI certification.
+- 🏫 I’m currently enrolled in a Master's program in Data Science [ LJMU ] and pursuing a GenAI certification.
 
 - 👩🏻‍🚀 Little bit about me **Sparking creativity by fueling my text-to-image adventures with a dash of randomness and a sprinkle of digital magic! ✨🔮**
 
